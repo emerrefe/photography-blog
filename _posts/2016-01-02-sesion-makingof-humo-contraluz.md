@@ -11,9 +11,7 @@ No sé si recordáis que la nochebuena de 2014 a 2015 donde los primos hicimos u
 
 ¡Dejo el vídeo a continuación!
 
-{% highlight html %}
 <center><iframe src="https://www.youtube.com/embed/BTKbTFZGLVA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-{% endhighlight %}
 
 ¡¡Podéis echar un ojo a las fotos [aquí](https://flic.kr/s/aHskrWoARm) y [aquí](https://flic.kr/p/BKczrU) (y de paso ver el Flickr de Ángel)!!
 
