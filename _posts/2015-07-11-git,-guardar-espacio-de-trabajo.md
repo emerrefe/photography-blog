@@ -1,50 +1,10 @@
 ---
 layout: post
-title: Git, guardar espacio de trabajo
-tags: git tips more
+title: Sesión nocturna, humo y contraluz
+tags: making of
 eye_catch: ""
 ---
 
-Siempre que compartes un repo con otras personas, sabes que te encontrarás con los bonitos merges caóticos.
-Como truco para no perder nada y tener en local todo actualizado justo antes de subir mis cambios yo almaceno todo mi estado
- (del working directory) con un stash.
+Le estamos cogiendo el gustillo a hacer sesiones de fotos + making of.
 
-## El tema sería el siguiente:
-
-* Estamos dos personas en la misma rama
-* Cada uno desarrolla
-* El otro sube sus cambios sin problemas
-* LLego yo a subir lo mío y no estoy actualizada
-* Me guardo mis cambios
- 
-
-```
-$ git stash
-```
-
-* Me descargo lo que hay arriba
-
-```
-$ git pull
-```
-
-* Recupero mis cambios
-
-```
-$ git stash pop
-```
-
-* Agrego mis cambios y describo mi commit
-
-```
-$ git add --all
-git commit -m "Mis cambios automágicos"
-```
-
-* Subo mi commit
-
-```
-$ git push
-```
-
-Y todo perfecto, no he visto asomar la cabeza a ningún merge!!
+No sé si recordáis que la nochebuena de 2014 a 2015 donde los primos hicimos un pequeño timelapse del anochecer, si no, podéis verlo [aquí](http://www.mcarmenraflo.com/anochecer-nochebueno). Pues bien, esta nochebuena hemos dado otro enfoque al entretenimiento y nos hemos montado otro plan, como os cuento, un making off de una sesión de fotos a la luz de un foco y el humo de esa lumbre tan familiar y tan cálida.
