@@ -1,5 +1,5 @@
 title:            MC Photograpy blog
-description:      el mundo desde la lente de mi cámara
+description:      el mundo desde la lente de mi camara
 disqus_shortname: emerrefe-photograpy-blog
 reading_time:     true
 words_per_minute: 200
@@ -9,7 +9,7 @@ url:              //emerrefe.github.io/photograpy-blog
 owner:
   name:           MC Ramirez
   avatar:         avatar.png
-  bio:            "Fotografía, gadgets, lugares y mucho más."
+  bio:            "Fotografia, gadgets, lugares y mucho mas."
   email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        emerrefe
