@@ -1,15 +1,15 @@
-title:            MC QA blog
-description:      Just another QA blog
-disqus_shortname: emerrefe-qa-blog
+title:            MC Photograpy blog
+description:      el mundo desde la lente de mi cámara
+disqus_shortname: emerrefe-photograpy-blog
 reading_time:     true
 words_per_minute: 200
-url:              //emerrefe.github.io/qa-blog
+url:              //emerrefe.github.io/photograpy-blog
 
 # Owner/author information
 owner:
   name:           MC Ramirez
   avatar:         avatar.png
-  bio:            "QA tester"
+  bio:            "Fotografía, gadgets, lugares y mucho más."
   email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        emerrefe
