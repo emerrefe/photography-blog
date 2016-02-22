@@ -3,7 +3,7 @@ layout: post
 title: "Escapada a Las Barrancas de Burujón"
 description: ""
 image:
-  feature: "barrancas.jpg"
+  feature: "barrancas-header.jpg"
 tags: [viajes, naturaleza]
 ---
 
