@@ -2,7 +2,8 @@
 layout: post
 title: "Sesión nocturna, humo y contraluz"
 description: ""
-image: 24051776331_3a367949cb_z.jpg
+image: 
+  feature: "head-humo.jpg"
 tags: [making of]
 ---
 
