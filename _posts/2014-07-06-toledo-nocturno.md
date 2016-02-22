@@ -3,7 +3,7 @@ layout: post
 title: "Toledo nocturno"
 description: ""
 image:
-  feature: "toledo-nocturno.jpg"
+  feature: "toledo-nocturno-header.jpg"
 tags: [viajes]
 ---
 
