@@ -3,7 +3,7 @@ layout: post
 title: Sesión nocturna, humo y contraluz
 tags: making of
 image:
-  feature: 
+  feature: 24051776331_3a367949cb_z.jpg
   credit: emerrefe
   creditlink: https://www.flickr.com/photos/therealmrf/23838782460/in/dateposted-public/
 ---
