@@ -2,8 +2,9 @@
 layout: post
 title: "Sesión nocturna, humo y contraluz"
 description: ""
-imagefeature: "head-humo.jpg"
-tags: [making of]
+image:
+  feature: "head-humo.jpg"
+tags: [making of, smoke]
 ---
 
 Le estamos cogiendo el gustillo a hacer sesiones de fotos + making of.
