@@ -3,7 +3,7 @@ layout: post
 title: "Anochecer nochebueno"
 description: ""
 image:
-  feature: "head-humo.jpg"
+  feature: "nochebuena.jpg"
 tags: [timelapse, naturaleza]
 ---
 
