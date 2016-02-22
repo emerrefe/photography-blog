@@ -17,7 +17,7 @@ Se encuentra a unos 30 minutos en coche desde Polán (Toledo).
 
 Una lástima no tener mi reflex a mano  para poder hacer un buen reportaje pero os dejo dos fotos tomadas con el móvil para que os hagáis una idea.<img class="aligncenter wp-image-389 size-medium" src="http://www.mcarmenraflo.com/wp-content/uploads/2015/09/IMG_20150829_200413_1-300x225.jpg" alt="Barrancas de Burujón" width="300" height="225" />
 
-<a href="http://www.mcarmenraflo.com/wp-content/uploads/2015/09/IMG_20150829_190318.jpg"><img class="aligncenter size-full wp-image-388" src="http://www.mcarmenraflo.com/wp-content/uploads/2015/09/IMG_20150829_190318.jpg" alt="Barrancas Burujón" width="2288" height="400" /></a>
+<a href=https://github.com/emerrefe/photography-blog/img/barrancas.jpg"><img class="aligncenter size-full wp-image-388" src="http://www.mcarmenraflo.com/wp-content/uploads/2015/09/IMG_20150829_190318.jpg" alt="Barrancas Burujón" width="2288" height="400" /></a>
 
 
 ¡Tengo que volver para hacer ese reportaje!
