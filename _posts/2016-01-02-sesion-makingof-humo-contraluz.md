@@ -3,9 +3,9 @@ layout: post
 title: Sesión nocturna, humo y contraluz
 tags: making of
 image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: 
+  credit: emerrefe
+  creditlink: https://www.flickr.com/photos/therealmrf/23838782460/in/dateposted-public/
 ---
 
 Le estamos cogiendo el gustillo a hacer sesiones de fotos + making of.
