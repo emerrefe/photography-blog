@@ -5,8 +5,6 @@ description: ""
 tags: [making of]
 image:
   feature: 24051776331_3a367949cb_z.jpg
-  credit: emerrefe
-  creditlink: https://www.flickr.com/photos/therealmrf/23838782460/in/dateposted-public/
 ---
 
 Le estamos cogiendo el gustillo a hacer sesiones de fotos + making of.
