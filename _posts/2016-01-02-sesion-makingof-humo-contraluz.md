@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Sesión nocturna, humo y contraluz
-tags: making of
+title: "Sesión nocturna, humo y contraluz"
+description: ""
+tags: [making of]
 image:
   feature: 24051776331_3a367949cb_z.jpg
   credit: emerrefe
