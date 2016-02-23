@@ -3,7 +3,7 @@ layout: post
 title: "Fotografiando humo"
 description: ""
 image:
-  feature: "humo2.jpg"
+  feature: "Humo2.jpg"
 tags: [smoke, miniestudios]
 ---
 
@@ -33,7 +33,7 @@ Y ¿por qué no toqué el tiempo de exposición ni la abertura? pues el tiempo d
 
 Así que finalmente elegí dos fotografías y las retoqué, la primera me gustó porque caprichosamente apareció un corazón arriba... las cosas del humo... jeje
 
-<img class="aligncenter size-full wp-image-388" src="//emerrefe.github.io/photography-blog/images/humo2.jpg" width="2288" height="400" />
+<img class="aligncenter size-full wp-image-388" src="//emerrefe.github.io/photography-blog/images/Humo2.jpg" width="2288" height="400" />
 
 Y en esta pinté el humo con capas de color, creo que queda bonito.
 
