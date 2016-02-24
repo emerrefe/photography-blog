@@ -3,7 +3,7 @@ layout: post
 title: "Escapada a Los Cahorros"
 description: ""
 image:
-  feature: "macro3.jpg"
+  feature: "LosCahorros2.jpg"
 tags: [viajes, naturaleza]
 ---
 
