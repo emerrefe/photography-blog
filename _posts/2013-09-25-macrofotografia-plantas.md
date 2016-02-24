@@ -17,7 +17,7 @@ Una de las primeras fotografías que hice fue esta:
 
 <img class="aligncenter size-full wp-image-388" src="//emerrefe.github.io/photography-blog/images/macro1.jpg" width="2288" height="400" />
 
-No os creáis que me compliqué la vida y que me compré un pedazo de objetivo o lente especial carísima, es más si queréis una idéntica a la mía es esta -->  Gran angular
+No os creáis que me compliqué la vida y que me compré un pedazo de objetivo o lente especial carísima, es más si queréis una idéntica a la mía es esta -->  [Gran angular](http://www.ebay.es/itm/Gran-Angular-FISHEYE-0-40X-46-52mm-58mm-PARA-NIKON-SLR-/330996250145?)
 
 Sí, esta era un pack, un ojo de pez y la macro. Como veis no es gran cosa y los resultados están bien a pesar de que todo es mejorable.
 
