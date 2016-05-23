@@ -11,19 +11,23 @@ tags: [making of, lips, sweet]
 
 Ya tenemos otra nueva sesión que enseñaros.
 
-No sé si recordáis que la nochebuena de 2014 a 2015 donde los primos hicimos un pequeño timelapse del anochecer, si no, podéis verlo [aquí](http://emerrefe.github.io/photography-blog/anochecer-nochebueno). Pues bien, esta nochebuena hemos dado otro enfoque al entretenimiento y nos hemos montado otro plan, como os cuento, un making off de una sesión de fotos a la luz de un foco y el humo de esa lumbre tan familiar y tan cálida.
+Tardes de:
 
-¡Dejo el vídeo a continuación!
+"Ven, corre, que se me acaba de ocurrir una tontería que puede quedar guay".
 
-<center><iframe src="https://www.youtube.com/embed/BTKbTFZGLVA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+"He traído la cámara y tengo unos anisillos... ya verás".
 
-¡¡Podéis echar un ojo a las fotos [aquí](https://flic.kr/s/aHskrWoARm) y [aquí](https://flic.kr/p/BKczrU) (y de paso ver el Flickr de Ángel)!!
+<center><iframe src="https://www.youtube.com/embed/MhQQcDRGVos" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
-Fotos como esta:
+¡¡Podéis echar un ojo a las fotos [aquí](https://flic.kr/s/aHskAmy5qn)!!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/therealmrf/23838782460/in/dateposted-public/" title="sesion nocturna silueta Cris"><img src="https://farm6.staticflickr.com/5634/23838782460_2797803812_k.jpg" width="2048" height="1365" alt="sesion nocturna silueta Cris"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Al final obtuvimos fotos como esta:
 
-Hay más info en la cajita inferior de descripción del video.
-Espero que hayáis tenido una buena entrada de año
-¡¡a cuidarse mucho gente!! ^^
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/therealmrf/27061821451/in/album-72157668449476181/" title="Sweet Dark"><img src="https://farm8.staticflickr.com/7730/27061821451_46bf17e992_z.jpg" width="640" height="427" alt="Sweet Dark"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Y aquel rato de risa, mereció la pena :)
+
+Hay más info sobre las fotos en la cajita inferior de descripción del video.
+
+¡¡Un abrazo!! ^^
 
