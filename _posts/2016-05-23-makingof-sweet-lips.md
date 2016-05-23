@@ -3,7 +3,7 @@ layout: post
 title: "Sesión Sweet Lips"
 description: ""
 image:
-  feature: "Sweet-red-cris-finger.JPG"
+  feature: "head-sweet.jpg"
 tags: [making of, lips, sweet]
 ---
 
